@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<head>
+<title> e-commerce </title>
+
+<style>
+
+aside {
+float: right;
+flex-basis: 50%;
+}
+
+</style>
+
+</head>
+<body>
+
+<h1>
+<center> eCommerce </center>
+</h1>
+
+<div>
+
+<aside>
+<figure>
+<img src='https://i.pinimg.com/736x/fe/90/82/fe90825aa12a83fdeec1e70c3ff52f10.jpg'
+width='250'
+height='250'>
+</figure>
+</aside>
+
+</div>
+
+<main>
+<article>
+<section>
+<p> Ecommerce or electronic commerce, a subset of ebusiness, e-commerce
+is the purchasing, and exchanging of goods and services over computer
+networks (such as the internet) through which transactions or terms of sale
+are performed electronically.
+</p>
+</section>
+
+<section>
+<center>
+<b>
+<h2> eCommerce requirements </h2>
+<table border= '1'>
+<tr>
+<th> Shopping cart </th>
+<th> Merchant account</th>
+</tr>
+<tr>
+<td>Processing gateway</td>
+<td>Digital Certificate</td>
+</tr>
+</table>
+</section>
+<section>
+<h2> Ecommerce can be broken into four main categories </h2>
+</b>
+</center>
+<ul>
+<li>B2B (Business-to-Business)</li>
+<li>B2C (Business-to-Consumer)</li>
+<li>C2B (Consumer-to-Business)</li>
+<li>C2C (Consumer-to-Consumer)</li>
+</ul>
+</section>
+
+</main>
+
+</body>
+</html>

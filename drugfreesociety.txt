@@ -1,0 +1,93 @@
+<!DOCTYPE>
+<html xmlns="html://www.w3.org/1999/xhtml"xml:lang="en">
+<head>
+<meta charset="UTF-8">
+<title> Drug-Free Society </title>
+<style>
+
+header, footer {
+background-color: #333;
+color: #fff;
+text-align: center;
+padding: 10px;}
+
+main {
+display: flex;
+}
+
+h1, h2, h3{
+font-family: 'Arial';}
+
+summary{
+font-family: 'Arial';
+font-size: 24px;}
+
+article, aside {
+flex-basis: 50%;
+}
+
+</style>
+</head>
+<body>
+<header>
+<h1> Drug-Free Society </h1>
+</header>
+
+<main>
+
+<article>
+<section>
+<h2> Why drugs? </h2>
+<p>
+Why do people take drugs? Most people that are addicted to drugs use it only because it gives then a feeling of momentary<mark> happiness or ecstasy</mark>. But in the long run drugs play a very bad role in your body.
+</p>
+</section>
+
+<section>
+<h2> Ways to prevent the usage of drugs</h2>
+<ul>
+<li>avoiding places where you know drugs and alcohol will be available.</li>
+<li>surrounding yourself with friends who don't use drugs.</li>
+<li>knowing how to resist temptation.</li>
+<li>learning how to cope with stress and relax without drugs.</li>
+<li>distracting yourself with activities like exercise or listening to music.</li>
+</ul>
+</section>
+
+<details>
+<summary><b> For more details click here</b></summary>
+<p>Phone no: <button>+91 18001 10031</button></p>
+<p>Email ID: <button>dg-ncb@nic.in</button></p>
+</details>
+</article>
+
+<aside>
+<section>
+<h2> What we do at the society </h2>
+<p> We help those who are addicted to drugs to help tear away from the addiction through our support group. Our timings are from<mark> 8.00pm-9.00pm </mark>daily. Those who wish to come are always welcome
+</p>
+</section>
+
+<center>
+<figure>
+<img src="https://i.redd.it/nrtj6xo0d0x31.jpg"
+alt="Anti-Drugs" width="300" height="250">
+<figcaption><b> Drugs are bad </b></figcaption>
+</figure>
+</center>
+
+</aside>
+</main>
+
+<footer>
+<center>
+<p>
+To learn more about our organization 
+<a href="https://pib.gov.in/newsite/PrintRelease.aspx?relid=177380"> 
+click here 
+</a>.
+</p>
+</center>
+</footer>
+</body>
+</html>
